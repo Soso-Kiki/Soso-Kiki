@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello, I'm 김소연!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=A%20Creative%20Game%20Developer%20&%20Problem%20Solver&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello,%20I'm%20%EA%B9%80%EC%86%8C%EC%97%B0!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=A%20Creative%20Game%20Developer%20&%20Problem%20Solver&descAlignY=51&descAlign=62"/>
 </p>
 
 <div align="center">
