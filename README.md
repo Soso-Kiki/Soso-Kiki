@@ -1,9 +1,12 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello,%20I'm%20%EA%B9%80%EC%86%8C%EC%97%B0!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=A%20Creative%20Game%20Developer%20&%20Problem%20Solver&descAlignY=51&descAlign=62"/>
 </p>
 
 <div align="center">
-  
+  -->
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F8FF,100:87CEEB&height=300&section=header&text=Hello,%20I'm%20%EA%B9%80%EC%86%8C%EC%97%B0!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=A%20Creative%20Game%20Developer%20&%20Problem%20Solver&descAlignY=51&descAlign=62"/>
+</p>
 ## 🚀 About Me
 
 상상하는 모든 것을 코드로 현실에 구현하는 게임 개발자 **[김소연]** 입니다. <br>
